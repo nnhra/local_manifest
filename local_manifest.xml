@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+ <!-- Trees -->
+ <project path="device/samsung/a10sxx" name="MizuNotCool/device_tree_a10s.git" remote="github" revision="a10sxx" />
+ <project path="vendor/samsung/a10sxx" name="MizuNotCool/vendor_tree_a10s.git" remote="github" revision="32-bit" />
+ 
+</manifest>
