@@ -6,7 +6,7 @@
   <remote name="lineage" fetch="https://github.com/LineageOS/" />
 
  <!-- Trees -->
- <project path="device/samsung/a10s" name="android_device_samsung_a10s" remote="MizuNotCool" revision="lineage-19.1" />
+ <project path="device/samsung/a10s" name="android_device_samsung_a10s" remote="MizuNotCool" revision="10" />
  <project path="vendor/samsung/a10s" name="android_vendor_samsung_a10s" remote="MizuNotCool" revision="a10s" />
 
 </manifest>
