@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+ <!-- Remotes -->
+  <remote name="MizuNotCool" fetch="https://github.com/MizuNotCool/" />
+  <remote name="lineage" fetch="https://github.com/LineageOS/" />
+
  <!-- Trees -->
- <project path="device/samsung/a10sxx" name="MizuNotCool/device_tree_a10s.git" remote="github" revision="a10sxx" />
- <project path="vendor/samsung/a10sxx" name="MizuNotCool/vendor_tree_a10s.git" remote="github" revision="32-bit" />
- 
+ <project path="device/samsung/a10s" name="android_device_samsung_a10s" remote="MizuNotCool" revision="lineage-19.1" />
+ <project path="vendor/samsung/a10s" name="android_vendor_samsung_a10s" remote="MizuNotCool" revision="12.1" />
+
 </manifest>
