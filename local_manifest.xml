@@ -4,14 +4,10 @@
  <!-- Remotes -->
   <remote name="MizuNotCool" fetch="https://github.com/MizuNotCool/" />
   <remote name="lineage" fetch="https://github.com/LineageOS/" />
-  <remote name="kdrag0n" fetch="https://github.com/kdrag0n"/>
 
  <!-- Trees -->
  <project path="device/samsung/a10s" name="android_device_samsung_a10s" remote="MizuNotCool" revision="10" />
  <project path="vendor/samsung/a10s" name="android_vendor_samsung_a10s" remote="MizuNotCool" revision="a10s" />
  <project path="kernel/samsung/mt6765" name="android_kernel_samsung_mt6765" remote="MizuNotCool" revision="a10s" />
  
- <!-- Clang -->
- <project name="proton-clang" path="prebuilts/clang/host/linux-x86/clang-proton" remote="kdrag0n" revision="master"/>
-
 </manifest>
