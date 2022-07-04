@@ -3,7 +3,7 @@
 
  <!-- Remotes -->
   <remote name="MizuNotCool" fetch="https://github.com/MizuNotCool/" />
-  <remote name="rr" fetch="https://github.com/ResurrectionRemix/" />
+  <remote name="lineage" fetch="https://github.com/LineageOS/" />
   <remote name="kdrag0n" fetch="https://github.com/kdrag0n"/>
 
  <!-- Trees -->
