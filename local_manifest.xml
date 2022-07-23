@@ -10,7 +10,7 @@
         
         <project path="device/realme/RMX2020" name="device_realme_RMX2020" remote="Realme-G70-Series" revision="lineage-18.1-rmui1" clone-depth="1" />
         <project path="vendor/realme/RMX2020" name="vendor_realme_RMX2020" remote="Realme-G70-Series" revision="11-rmui1" clone-depth="1" />
-        <project path="kernel/realme/RMX2020" name="kernel_realme_RMX2020" remote="flizi" revision="Q" clone-depth="1" />
+        <project path="kernel/realme/RMX2020" name="kernel_realme_RMX2020" remote="flizi" revision="lineage-18.1" clone-depth="1" />
         <project path="packages/apps/RealmeParts" name="android_packages_apps_RealmeParts" remote="Realme-G70-Series" revision="lineage-18.1" clone-depth="1" />
         <project path="packages/apps/RealmeDirac" name="android_packages_apps_RealmeDirac" remote="Realme-G70-Series" revision="master" clone-depth="1" />
 </manifest
