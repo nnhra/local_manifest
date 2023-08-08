@@ -2,12 +2,11 @@
 <manifest>
 
  <!-- Remotes -->
-  <remote name="MizuNotCool" fetch="https://github.com/MizuNotCool/" />
+  <remote name="nnhra" fetch="https://github.com/nnhra/" />
   <remote name="lineage" fetch="https://github.com/LineageOS/" />
-
+    
  <!-- Trees -->
- <project path="device/samsung/a10s" name="android_device_samsung_a10s" remote="MizuNotCool" revision="lineage-17.1" />
- <project path="vendor/samsung/a10s" name="android_vendor_samsung_a10s" remote="MizuNotCool" revision="a10s" />
- <project path="kernel/samsung/mt6765" name="android_kernel_samsung_a10s" remote="MizuNotCool" revision="android-10.0" />
+ <project path="device/samsung/a10s" name="android_device_samsung_a10s" remote="nnhra" revision="lineage-17.1" />
+ <project path="vendor/samsung/a10s" name="android_vendor_samsung_a10s" remote="nnhra" revision="a10s" />
  
 </manifest>
